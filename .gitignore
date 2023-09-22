@@ -1,0 +1,10 @@
+Debug/
+ipch/
+x64/
+MachineChecker.sdf
+MachineChecker.VC.db
+MachineChecker/x64/
+.vs/
+MachineChecker/MachineChecker.aps
+
+
